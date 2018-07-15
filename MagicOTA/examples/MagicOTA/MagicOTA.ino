@@ -1,5 +1,7 @@
 #include <MagicOTA.h>
 
+MagicOTA MagicOTA;
+
 void setup() {
   MagicOTA.setup();
   // put your setup code here, to run once:
