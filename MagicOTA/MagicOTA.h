@@ -1,5 +1,5 @@
-#ifndef Morse_h
-#define Morse_h
+#ifndef MagicOTA_h
+#define MagicOTA_h
 
 #include "ESP8266WiFi.h"
 #include "ESP8266mDNS.h"
